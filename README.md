@@ -1,7 +1,7 @@
 # PortFolio
 
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/33093409.jpg" align="right"
-     title="Size Limit logo by Anton Lovchikov" width="120" height="178">
+     title="Size Limit logo by Anton Lovchikov" width="178" height="178">
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
