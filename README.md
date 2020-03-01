@@ -97,7 +97,7 @@ interactive elements, using React/Vue/Svelte lib or vanilla JS.
 </details>
 
 
-### BewareOfTheTruth
+## BewareOfTheTruth
 
 JS libraries > 10 KB in size.
 
@@ -180,20 +180,4 @@ the size in bytes. Library like [React] is a good example for this preset.
 </details>
 
 
-### Small Libraries
-
-JS libraries < 10 KB in size.
-
-This preset will only measure the size, without the execution time, so it’s
-suitable for small libraries. If your library is larger, you likely want
-the Big Libraries preset above. [Nano ID] or [Storeon] are good examples
-for this preset.
-
-<details><summary><b>Show instructions</b></summary>
-
-1. First, install `size-limit`:
-
-    ```sh
-    $ npm install --save-dev size-limit @size-limit/preset-small-lib
-    ```
 
