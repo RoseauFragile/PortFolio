@@ -49,7 +49,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
   
 ## Beware Of The Truth
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi.
+Beware of the truth is a prototype of an rpg-based video game.
+It take place in the future, where a chemical smoke force peoples to live on the top of buildings.
   
 ## Lorann
   
@@ -61,8 +62,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 Developped by Loriciels in 1985. Lorann is a dungeon crawler, with monsters, scoring and death mecanics.
 To pass levels you must collect the key in each level but take care of monsters.
 You have to collect to kill monsters thanks to your fireball or gather fruits to increase your score.
-
--------------------------------
 
 I developped my own version of Lorann during my studies. 
 There is 4 kinds of mosnters with differents behaviours.
