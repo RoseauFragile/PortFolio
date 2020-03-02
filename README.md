@@ -3,7 +3,7 @@
 # Who I Am ?
 
 <p align="right">
-  <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Picture.jpg" width="240" height="175" />
+  <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Picture.jpg" width="230" height="175" />
 </p>
 
 **Student in IT Engineering**. Specialized in Object Oriented Programmations, particularly in **Java and C#**, i'm also interested by system infrastructure throught **Active Directory Environnement** and **Virtualization** (ESXI, GCP, AWS, VEEAM).
