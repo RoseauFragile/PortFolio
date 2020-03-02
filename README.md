@@ -14,9 +14,6 @@ if the cost exceeds the limit.
 
 # Who I Am ? 
 
-<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Avatar.jpg" align="right"
-      width="178" height="178">
-
 Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
 if the cost exceeds the limit.
