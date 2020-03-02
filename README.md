@@ -64,4 +64,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
 ## Authors
 
-* **Benjamin Coudannes** 
+* **Benjamin Coudannes** benjamin.coudannes@outlook.fr
