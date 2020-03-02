@@ -18,8 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
 ## TxtXored
     
-      [![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default (https://github.com/RoseauFragile/CryptoJava)
-      [![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava/fork)
+[![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default (https://github.com/RoseauFragile/CryptoJava) [![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava/fork)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
 
@@ -29,14 +28,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 <sub>Capture of Xored-key decrypt menu</sub>
 </details>
 
------------------
-
 # Game Projects
 
 <details><summary>Show tools projects</summary>
   <p>
     
-    ## Panik Rocket
+## Panik Rocket
 
 <details><summary>Show Panik Rocket</summary>
   <p>
@@ -49,23 +46,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
   </p>
 </details>
 
-    -----------------
+-----------------
 
-    ## Beware Of The Truth
+## Beware Of The Truth
 
-    These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi.
 
-    -----------------
-    
-    ## Lorann
+-----------------
 
-    <p align="center">
-      <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.png" />
-    </p>
-    <sub>In-Game capture of Lorann</sub>
+## Lorann
+
+<p align="center">
+  <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.png" />
+</p>
+<sub>In-Game capture of Lorann</sub>
 
 
-    These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi.
 
   </p>
 </details>
