@@ -1,5 +1,4 @@
-[![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava)
-[![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava/fork)
+
 
 ## Table of contents
 * [Introduction](#Introduction)
@@ -56,6 +55,8 @@ These instructions will get you a copy of the project up and running on your loc
 -----------------
 
 # TxtXored
+[![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava)
+[![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava/fork)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Xor.png" align="center" >
