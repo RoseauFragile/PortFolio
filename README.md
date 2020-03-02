@@ -10,7 +10,11 @@ if the cost exceeds the limit.
 
 # Panik Rocket
 
-<img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png" align="center" width="400" height="400">
+<p align="center">
+  <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png" />
+</p>
+<sub><i>Diagramme créé avec <a href="http://sankeymatic.com/" title="SankeyMATIC (BETA): A Sankey diagram builder for everyone">@SankeyMATIC</a></i></sub>
+
 
 1. Size Limit contains a CLI tool, 3 plugins (`file`, `webpack`, `time`)
    and 3 plugin presets for popular use cases (`app`, `big-lib`, `small-lib`).
