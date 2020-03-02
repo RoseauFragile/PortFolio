@@ -12,12 +12,15 @@ Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
 if the cost exceeds the limit.
 
+-----------------
+
 # Who I Am ? 
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
 if the cost exceeds the limit.
 
+-----------------
 
 # Panik Rocket
 
@@ -41,11 +44,13 @@ if the cost exceeds the limit.
    
          <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_Controllers.png" align="center" width="400" height="400">
 
-   
+-----------------
 
 # Beware Of The Truth
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+-----------------
 
 # TxtXored
 
@@ -54,6 +59,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Caesar.png" align="center" >
 
+-----------------
 
 # Lorann
 
@@ -62,6 +68,8 @@ These instructions will get you a copy of the project up and running on your loc
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.jpg" align="center">
+
+-----------------
 
 # Authors
 
