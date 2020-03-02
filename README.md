@@ -27,7 +27,7 @@ if the cost exceeds the limit.
 
 ## JaveXored
 
-### Lorann
+## Lorann
 
 Suitable for applications that have their own bundler and send the JS bundle
 directly to a client (without publishing it to npm). Think of a user-facing app
