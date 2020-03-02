@@ -3,7 +3,7 @@
 # Who I Am ?
 
 <p align="right">
-  <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Picture.jpg" />
+  <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Picture.jpg" width="400" height="400" />
 </p>
 Student in IT Engineering. Specialized in Object Oriented Programmations, particularly in Java and C#, i'm also interested by system infrastructure throught Active Directory Environnement and Virtualization (ESXI, GCP, AWS, VEEAM).
 I'm making some tools in Python and Java for CTF, otherwise I'm a video game developer trought Unity3D and Godot Engine.
