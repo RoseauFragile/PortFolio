@@ -10,22 +10,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
 <details><summary>Show tools projects</summary>
   
-## EasySave
+  <details><summary>Show EasySave</summary>
+  
+  ## EasySave
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
 
-    -----------------
+  </details>
+  
+-----------------
 
-## TxtXored
-    
-[![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default (https://github.com/RoseauFragile/CryptoJava) [![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava/fork)
+<details><summary>Show TxtXored</summary>
+  
+  ## TxtXored
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
+  [![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default (https://github.com/RoseauFragile/CryptoJava) [![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava/fork)
 
-<p align="center">
-  <img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Xor.png" />
-</p>
-<sub>Capture of Xored-key decrypt menu</sub>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
+
+  <p align="center">
+    <img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Xor.png" />
+  </p>
+  <sub>Capture of Xored-key decrypt menu</sub>
+  </details>
 </details>
 
 # Game Projects
