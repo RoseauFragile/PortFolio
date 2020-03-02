@@ -1,6 +1,6 @@
 # PortFolio
 
-<img src="https://github.com/RoseauFragile/PortFolio/blob/master/33093409.jpg" align="right"
+<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Avatar.jpg" align="right"
      title="Size Limit logo by Anton Lovchikov" width="178" height="178">
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
@@ -25,19 +25,19 @@ if the cost exceeds the limit.
    available) to track the time a browser takes to compile and execute your JS.
 
 
-# Panik Rocket
+## Panik Rocket
 
 One Paragraph of project description goes here
 
-# Beware Of The Truth
+## Beware Of The Truth
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-# TxtXored
+## TxtXored
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-# Lorann
+## Lorann
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## Authors
