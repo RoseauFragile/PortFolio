@@ -1,3 +1,10 @@
+[![npm version][npm-badge]][npm-url]
+[![npm bundle size][downloads-badge]][npm-url]
+[![npm bundle size][size-badge]][npm-url]
+[![Build Status][build-badge]][build-url]
+[![Codecov Coverage][coverage-badge]][coverage-url]
+[![TypeScript][typescript-badge]][typescript-url]
+
 ## Table of contents
 * [Introduction](#Introduction)
 * [Who I Am ?](#WhoIAm?)
