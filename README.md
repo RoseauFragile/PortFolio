@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 ## Beware Of The Truth
  
 <p align="center">
-<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Porco.png" />
+<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Porco.png" width="600" height="400" />
 </p>
 <sub>Main Menu of Beware Of The Truth</sub>
 
@@ -58,7 +58,7 @@ Beware of the truth is a prototype of an rpg-based video game.
 It take place in the future, where a chemical smoke force peoples to live on the top of buildings.
 
 <p align="center">
-<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Screenshot_8.png" />
+<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Screenshot_8.png" width="600" height="400" />
 </p>
 <sub>In-Game capture of Beware Of The Truth</sub>
   
