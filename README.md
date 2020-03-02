@@ -51,6 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
  
 Beware of the truth is a prototype of an rpg-based video game.
 It take place in the future, where a chemical smoke force peoples to live on the top of buildings.
+Written in Java, it use sqlite database to store objects like saves, levels, monsters, items etc..
  
 <p align="center">
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Porco.png" width="600" height="400" />
@@ -69,7 +70,8 @@ To pass levels you must collect the key in each level but take care of monsters.
 You have to collect to kill monsters thanks to your fireball or gather fruits to increase your score.
 
 I developped my own version of Lorann during my studies. 
-There is 4 kinds of mosnters with differents behaviours.  
+There is 4 kinds of mosnters with differents behaviours.
+It use a MySql Database to store levels, monsters, items etc..
   
 <p align="center">
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.png" />
