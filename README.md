@@ -1,9 +1,5 @@
-[![npm version][npm-badge]][npm-url]
-[![npm bundle size][downloads-badge]][npm-url]
-[![npm bundle size][size-badge]][npm-url]
-[![Build Status][build-badge]][build-url]
-[![Codecov Coverage][coverage-badge]][coverage-url]
-[![TypeScript][typescript-badge]][typescript-url]
+[![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=Lorann&style=default)](https://github.com/RoseauFragile/Lorann)
+[![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=Lorann&style=default)](https://github.com/RoseauFragile/Lorann/fork)
 
 ## Table of contents
 * [Introduction](#Introduction)
