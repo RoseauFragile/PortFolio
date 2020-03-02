@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
 ## Lorann
 
-  <details><summary>Show Lorann/summary>
+  <details><summary>Show Lorann</summary>
 
   <p align="center">
     <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.png" />
