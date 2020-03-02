@@ -3,7 +3,7 @@
 ## Table of contents
 * [Introduction](#Introduction)
 * [Who I Am ?](#WhoIAm?)
-* [Panik Rocket](#Panik)
+* [Panik Rocket](#Panik-Rocket)
 
 # Introduction
 
