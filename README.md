@@ -1,12 +1,3 @@
-<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Avatar.jpg" align="right" width="178" height="178">
-# Table of contents
-[Who I Am ?](#Who-I-Am-?)
-[Panik Rocket](#Panik-Rocket) 
-[Beware Of The Truth](#Beware-Of-The-Truth)
-[Java Decrypt](#TxtXored)
-[Lorann](#Lorann)
-[EasySave](#EasySave)
-
 -----------------
 
 # Who I Am ?
