@@ -2,9 +2,7 @@
 
 # Who I Am ?
 
-Size Limit is a performance budget tool for JavaScript. It checks every commit
-on CI, calculates the real cost of your JS for end-users and throws an error
-if the cost exceeds the limit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
 
 -----------------
 
@@ -12,23 +10,23 @@ if the cost exceeds the limit.
 
 <details><summary>Show tools projects</summary>
   
-    ## EasySave
+## EasySave
 
-    These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
 
     -----------------
 
-    ## TxtXored
+## TxtXored
     
       [![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default (https://github.com/RoseauFragile/CryptoJava)
       [![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava/fork)
 
-      These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
 
-      <p align="center">
-        <img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Xor.png" />
-      </p>
-      <sub>Capture of Xored-key decrypt menu</sub>
+<p align="center">
+  <img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Xor.png" />
+</p>
+<sub>Capture of Xored-key decrypt menu</sub>
 </details>
 
 -----------------
@@ -40,18 +38,16 @@ if the cost exceeds the limit.
     
     ## Panik Rocket
 
-    <details><summary>Show Panik Rocket</summary>
-      <p>
-          <p align="center">
-            <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png" width="600" height="400" />
-          </p>
-        <sub>In-Game capture of PanikRocket</sub>
+<details><summary>Show Panik Rocket</summary>
+  <p>
+    <p align="center">
+      <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png" width="600" height="400" />
+    </p>
+<sub>In-Game capture of PanikRocket</sub>
 
-        1. Size Limit contains a CLI tool, 3 plugins (`file`, `webpack`, `time`)
-           and 3 plugin presets for popular use cases (`app`, `big-lib`, `small-lib`).
-           A CLI tool finds plugins in `package.json` and loads the config.
-      </p>
-    </details>
+        1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
+  </p>
+</details>
 
     -----------------
 
