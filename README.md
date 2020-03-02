@@ -1,7 +1,7 @@
 # PortFolio
 
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Avatar.jpg" align="right"
-     title="Size Limit logo by Anton Lovchikov" width="178" height="178">
+      width="178" height="178">
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
@@ -9,6 +9,8 @@ if the cost exceeds the limit.
 
 
 ## PanikRocket
+
+<img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png">
 
 1. Size Limit contains a CLI tool, 3 plugins (`file`, `webpack`, `time`)
    and 3 plugin presets for popular use cases (`app`, `big-lib`, `small-lib`).
