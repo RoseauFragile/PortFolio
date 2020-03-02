@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
   </details>
 
-<details><summary>Show TxtXored</summary>
+##<details><summary>Show TxtXored</summary>
   
   ## TxtXored
 
