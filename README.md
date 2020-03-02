@@ -27,6 +27,11 @@ if the cost exceeds the limit.
 
 3. The `webpack` plugin creates an empty webpack project, adds your library
    and looks for the bundle size difference.
+   
+         <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_Controllers.png" align="center" width="400" height="400">
+
+   
+
 4. The `time` plugin compares the current machine performance with that of
    a low-priced Android devices to calculate the CPU throttling rate.
 5. Then the `time` plugin runs headless Chrome (or desktop Chrome if it’s
@@ -44,6 +49,10 @@ These instructions will get you a copy of the project up and running on your loc
 ## TxtXored
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+<img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Xor.png" align="center" >
+
+<img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Caesar.png" align="center" >
+
 
 ## Lorann
 
