@@ -8,7 +8,7 @@ on CI, calculates the real cost of your JS for end-users and throws an error
 if the cost exceeds the limit.
 
 
-## PanikRocket
+# Panik Rocket
 
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png" align="center" width="400" height="400">
 
@@ -32,21 +32,11 @@ if the cost exceeds the limit.
 
    
 
-4. The `time` plugin compares the current machine performance with that of
-   a low-priced Android devices to calculate the CPU throttling rate.
-5. Then the `time` plugin runs headless Chrome (or desktop Chrome if it’s
-   available) to track the time a browser takes to compile and execute your JS.
-
-
-## Panik Rocket
-
-One Paragraph of project description goes here
-
-## Beware Of The Truth
+# Beware Of The Truth
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-## TxtXored
+# TxtXored
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Xor.png" align="center" >
@@ -54,7 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Caesar.png" align="center" >
 
 
-## Lorann
+# Lorann
 
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.png" align="center" >
 
@@ -62,12 +52,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.jpg" align="center">
 
-## Authors
+# Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Benjamin Coudannes** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## Licenses
+# Licenses
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
