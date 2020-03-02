@@ -2,7 +2,11 @@
 
 # Who I Am ?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
+Student in IT Engineering. Specialized in Object Oriented Programmations, particularly in Java and C#, i'm also interested by system infrastructure throught Active Directory Environnement and Virtualization (ESXI, GCP, AWS, VEEAM).
+I'm making some tools in Python and Java for CTF, otherwise I'm a video game developer trought Unity3D and Godot Engine.
+
+I am questioning between a career in cybersecurity or video games.
+Sensitive to philosophy, I am very interested about questions around artificial intelligence and more precisely on the definition of artificial consciousness (which is not artificial intelligence).
 
 -----------------
 
