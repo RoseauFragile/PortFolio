@@ -60,19 +60,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
 ## Lorann
 
-<details><summary>Show Lorann/summary>
+  <details><summary>Show Lorann/summary>
 
-<p align="center">
-  <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.png" />
-</p>
-<sub>In-Game capture of Lorann</sub>
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi.
-
-</details>
-
+  <p align="center">
+    <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.png" />
   </p>
+  <sub>In-Game capture of Lorann</sub>
+
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi.
+
+  </details>
 </details>
 -----------------
 
