@@ -11,8 +11,7 @@ if the cost exceeds the limit.
 # Tools Projects
 
 <details><summary>Show tools projects</summary>
-  <p>
-    
+  
     ## EasySave
 
     These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -21,19 +20,18 @@ if the cost exceeds the limit.
 
     ## TxtXored
     
-    [![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava)
-    [![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava/fork)
+      [![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default (https://github.com/RoseauFragile/CryptoJava)
+      [![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava/fork)
 
-    These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+      These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-    <p align="center">
-      <img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Xor.png" />
-    </p>
-    <sub>Capture of Xored-key decrypt menu</sub>
-
-    -----------------
-  </p>
+      <p align="center">
+        <img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Xor.png" />
+      </p>
+      <sub>Capture of Xored-key decrypt menu</sub>
 </details>
+
+-----------------
 
 # Game Projects
 
