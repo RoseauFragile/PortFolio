@@ -1,5 +1,5 @@
-[![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=Lorann&style=default)](https://github.com/RoseauFragile/Lorann)
-[![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=Lorann&style=default)](https://github.com/RoseauFragile/Lorann/fork)
+[![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava)
+[![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava/fork)
 
 ## Table of contents
 * [Introduction](#Introduction)
