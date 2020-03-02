@@ -1,22 +1,15 @@
-
-
-## Table of contents
-* [Introduction](#Introduction)
+<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Avatar.jpg" align="right" width="178" height="178">
+# Table of contents
 * [Who I Am ?](#Who-I-Am-?)
-* [Panik Rocket](#Panik-Rocket)
-
-# Introduction
-
-<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Avatar.jpg" align="right"
-      width="178" height="178">
-
-Size Limit is a performance budget tool for JavaScript. It checks every commit
-on CI, calculates the real cost of your JS for end-users and throws an error
-if the cost exceeds the limit.
+* [Panik Rocket](#Panik-Rocket) 
+* [Beware Of The Truth](#Beware-Of-The-Truth)
+* [Java Decrypt](#TxtXored)
+* [Lorann](#Lorann)
+* [EasySave](#EasySave)
 
 -----------------
 
-# Who I Am ? 
+# Who I Am ?
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
@@ -49,6 +42,12 @@ if the cost exceeds the limit.
 -----------------
 
 # Beware Of The Truth
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+-----------------
+
+# EasySave
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
