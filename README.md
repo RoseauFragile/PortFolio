@@ -64,17 +64,17 @@ It take place in the future, where a chemical smoke force peoples to live on the
   
 ## Lorann
   
-<p align="center">
-<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.png" />
-</p>
-<sub>In-Game capture of Lorann</sub>
-
 Developped by Loriciels in 1985. Lorann is a dungeon crawler, with monsters, scoring and death mecanics.
 To pass levels you must collect the key in each level but take care of monsters.
 You have to collect to kill monsters thanks to your fireball or gather fruits to increase your score.
 
 I developped my own version of Lorann during my studies. 
-There is 4 kinds of mosnters with differents behaviours.
+There is 4 kinds of mosnters with differents behaviours.  
+  
+<p align="center">
+<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.png" />
+</p>
+<sub>In-Game capture of Lorann</sub>
 
 </details>
 
