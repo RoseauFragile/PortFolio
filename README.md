@@ -40,12 +40,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
     
 ## Panik Rocket
 
+Developped in 48 hours during the GlobalGame Jam, i was the leader developper for this project. Developped with Unity3D, Panik Rocket is a third person acarde. The them of this jam was **"Repair"**, So you need to repair your rocket in a short time to escape. The first player to repair his rocket by collecting repair items win. 
+It support controllers and screen-splitting multiplayer.
+
 <p align="center">
 <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png" width="600" height="400" />
 </p>
 <sub>In-Game capture of PanikRocket</sub>
-
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
   
 ## Beware Of The Truth
  
