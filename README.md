@@ -10,6 +10,14 @@ if the cost exceeds the limit.
 
 # Panik Rocket
 
+
+<details><summary>CLICK ME</summary>
+<p>
+
+
+
+
+
 <p align="center">
   <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png" width="600" height="400" />
 </p>
@@ -20,6 +28,8 @@ if the cost exceeds the limit.
    and 3 plugin presets for popular use cases (`app`, `big-lib`, `small-lib`).
    A CLI tool finds plugins in `package.json` and loads the config.
    
+</p>
+</details>
 -----------------
 
 # Beware Of The Truth
