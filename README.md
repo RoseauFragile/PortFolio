@@ -10,15 +10,21 @@ if the cost exceeds the limit.
 
 ## PanikRocket
 
-<img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png">
+<img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png" width="400" height="400">
 
 1. Size Limit contains a CLI tool, 3 plugins (`file`, `webpack`, `time`)
    and 3 plugin presets for popular use cases (`app`, `big-lib`, `small-lib`).
    A CLI tool finds plugins in `package.json` and loads the config.
+   
+   <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_MultiPlayers.png" width="400" height="400">
+   
 2. If you use the `webpack` plugin, Size Limit will bundle your JS files into
    a single file. It is important to track dependencies and webpack polyfills.
    It is also useful for small libraries with many small files and without
    a bundler.
+   
+      <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_HowTo.png" width="400" height="400">
+
 3. The `webpack` plugin creates an empty webpack project, adds your library
    and looks for the bundle size difference.
 4. The `time` plugin compares the current machine performance with that of
@@ -40,7 +46,12 @@ These instructions will get you a copy of the project up and running on your loc
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## Lorann
+
+<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.png">
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+<img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.jpg">
 
 ## Authors
 
