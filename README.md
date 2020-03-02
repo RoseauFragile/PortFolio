@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
 # Game Projects
 
-<details><summary>Show tools projects</summary>
+<details><summary>Show game projects</summary>
   <p>
     
 ## Panik Rocket
@@ -50,11 +50,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
 ## Beware Of The Truth
 
+<details><summary>Show Beware Of The Truth</summary>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi.
 
 -----------------
 
+</details>
+
 ## Lorann
+
+<details><summary>Show Lorann/summary>
 
 <p align="center">
   <img src="https://github.com/RoseauFragile/PortFolio/blob/master/Lorann.png" />
@@ -63,6 +69,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi.
+
+</details>
 
   </p>
 </details>
