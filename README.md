@@ -65,8 +65,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 ## Authors
 
 * **Benjamin Coudannes** 
-
-
-## Licenses
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
