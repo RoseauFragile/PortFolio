@@ -11,7 +11,7 @@ if the cost exceeds the limit.
 # Panik Rocket
 
 <p align="center">
-  <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png" />
+  <img src="https://github.com/RoseauFragile/PortFolio/blob/master/PanikRocket_InGame.png" width="200" height="400" />
 </p>
 <sub><i>Diagramme créé avec <a href="http://sankeymatic.com/" title="SankeyMATIC (BETA): A Sankey diagram builder for everyone">@SankeyMATIC</a></i></sub>
 
