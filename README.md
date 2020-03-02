@@ -1,7 +1,7 @@
 ## Table of contents
 * [Introduction](#Introduction)
-* [Who I Am ?](#Who I Am ?)
-* [Panik Rocket](#Panik Rocket)
+* [Who I Am ?](#WhoIAm?)
+* [Panik Rocket](#PanikRocket)
 
 # Introduction
 
