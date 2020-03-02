@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
 <details><summary>Show tools projects</summary>
   
-  <details><summary>Show EasySave</summary>
+  1.<details><summary>Show EasySave</summary>
   
   ## EasySave
 
@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
   </details>
 
-<details><summary>Show TxtXored</summary>
+2.<details><summary>Show TxtXored</summary>
   
   ## TxtXored
 
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
 <details><summary>Show game projects</summary>
   
-  <details><summary>Show Panik Rocket</summary>
+  1.<details><summary>Show Panik Rocket</summary>
     
   ## Panik Rocket
     
@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
           1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
   </details>
 
-  <details><summary>Show Beware Of The Truth</summary>
+  2.<details><summary>Show Beware Of The Truth</summary>
   
   ## Beware Of The Truth
   
