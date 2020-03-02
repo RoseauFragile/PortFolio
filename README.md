@@ -31,6 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 # Game Projects
 
 <details><summary>Show game projects</summary>
+  
   <details><summary>Show Panik Rocket</summary>
     
   ## Panik Rocket
