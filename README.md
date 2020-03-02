@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
   
   ## TxtXored
 
-  [![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default (https://github.com/RoseauFragile/CryptoJava)
+  [![star this repo](https://githubbadges.com/star.svg?user=RoseauFragile&repo=CryptoJava&style=default)] (https://github.com/RoseauFragile/CryptoJava)
   [![fork this repo](https://githubbadges.com/fork.svg?user=RoseauFragile&repo=CryptoJava&style=default)](https://github.com/RoseauFragile/CryptoJava/fork)
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
