@@ -23,8 +23,10 @@ I am questioning between a career in **cybersecurity or video games**.
 
 EasySave is a tool writtent in C# during a school project. 
 It help user to automatize save routines.
+
 You can add task, a task is a save routines with settings. 
 Throught the settings you can choose the files to save and where to save them, with encryption or not.
+
 There is two save mode, the mirror mode and the differential mode.
 You can run tasks simultaneously.
 
@@ -33,6 +35,7 @@ You can run tasks simultaneously.
   <img src="https://github.com/RoseauFragile/PortFolio/blob/master/EasySave_1.png" />
 </p>
 <sub>Capture of EasySave main menu</sub>
+
 
 <p align="center">
   <img src="https://github.com/RoseauFragile/PortFolio/blob/master/EasySave_2.png" />
