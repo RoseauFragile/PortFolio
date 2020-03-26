@@ -21,7 +21,8 @@ I am questioning between a career in **cybersecurity or video games**.
 
 ## EasySave
 
-EasySave is a tool writtent in C# during a school project. It help user to automatize save routines.
+EasySave is a tool writtent in C# during a school project. 
+It help user to automatize save routines.
 You can add task, a task is a save routines with settings. 
 Throught the settings you can choose the files to save and where to save them, with encryption or not.
 There is two save mode, the mirror mode and the differential mode.
