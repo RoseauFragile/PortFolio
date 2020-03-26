@@ -25,7 +25,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus q
 
 ## TxtXored
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra id lacus quis semper. Morbi consectetur placerat posuere. Nulla erat eros, imperdiet sit amet imperdiet vel, feugiat vel sapien. Sed vel iaculis enim. Fusce at rutrum sem. Nam tortor libero, tincidunt sed tincidunt nec, viverra a mi. Suspendisse faucibus ultrices tellus, ac vestibulum mauris interdum nec. Aenean dolor lectus, auctor congue urna nec, volutpat iaculis sem. Nunc eu massa augue. In dapibus aliquam nisi, nec vulputate neque ultrices tincidunt.
+Is it a Tool writen in java to decrypt txt files without key. Can decrypt :
+
+  - Xored txt with key by letter frequency analysis.
+  - Caesar encrypted txt with by dictionnary matches.
+  
+It supports English and French languages.
 
 <p align="center">
   <img src="https://github.com/RoseauFragile/PortFolio/blob/master/JavaXored_Xor.png" />
