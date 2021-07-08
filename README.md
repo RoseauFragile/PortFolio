@@ -9,9 +9,6 @@
 **Student in IT Engineering**. Specialized in Object Oriented Programmations, particularly in **Java and C#**, i'm also interested by system infrastructure throught **Active Directory Environnement** and **Virtualization** (ESXI, GCP, AWS, VEEAM).
 I'm making some tools in Python and Java for **CTF**, otherwise I'm a video game developer trought **Unity3D and Godot Engine**.
 
-I am questioning between a career in **cybersecurity or video games**.
-**Sensitive to philosophy**, I am very interested about questions around **artificial intelligence** and more precisely on the definition of **artificial consciousness** (~~which is the same to artificial intelligence~~ **which is very different**).
-
 -----------------
 
 # Tools Projects
